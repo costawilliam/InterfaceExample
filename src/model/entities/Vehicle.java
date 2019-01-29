@@ -2,7 +2,7 @@ package model.entities;
 
 public class Vehicle {
 	private String model;
-	
+
 	public Vehicle() {
 	}
 
@@ -16,6 +16,5 @@ public class Vehicle {
 
 	public void setModel(String model) {
 		this.model = model;
-	}	
-	
+	}
 }
